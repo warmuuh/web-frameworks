@@ -1,0 +1,4 @@
+orbit.components: 
+    - wrm.orbit.MyModule
+    - com.ea.orbit.web.WebModule
+orbit.http.port: 8080
