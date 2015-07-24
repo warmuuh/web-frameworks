@@ -3,5 +3,6 @@ startuptime with single-jar-setup
 dropwizard: 13 mb, 1.3 sec
 plain java8: 4 kb, 147 ms
 orbit: 8 mb, 5-9 sec
-spark + orbit-container: 2 mb, 329 ms
+spark + orbit-container: 2.5 mb, 469 ms
 spring: 12 mb, 3 sec
+spark + hardwire: 1.4mb, 330 ms
