@@ -6,3 +6,4 @@ orbit: 8 mb, 5-9 sec
 spark + orbit-container: 2.5 mb, 469 ms
 spring: 12 mb, 3 sec
 spark + hardwire: 1.4mb, 330 ms
+ratpack: 8mb, ~1sec
